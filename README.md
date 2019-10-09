@@ -53,7 +53,7 @@ function hof(fn) {
 
 ### Array de funciones
 
-Si un _array_ puede guardar valores de cualquier tipo, entonces también podemos guardar funciones, no? Obvio 🎉 (alguien dijo _React Hooks_? 😛)
+Si un _array_ puede guardar valores de cualquier tipo, entonces también podemos guardar funciones, no? Obvio 🎉 (alguien dijo [_React Hooks_](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)? 😛)
 
 ```js
 const functionsList = [() => console.log('Hello'), (a, b) => a + b]
