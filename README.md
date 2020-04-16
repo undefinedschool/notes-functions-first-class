@@ -15,7 +15,7 @@ Un lenguaje de programación tiene _First-Class functions_ cuando **las funcione
 
 ## Alto orden!
 
-Las características anteriores, marcadas con :star: hacen que una función sea además lo que se conoce como _función de alto orden_ ó _Higher Order Function_ :sunglasses:
+Las características anteriores, marcadas con :star: hacen que una función sea además lo que se conoce como **_función de alto orden_ ó _Higher Order Function_** :sunglasses:
 
 Para más detalles, ver [MDN: First Class Function](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
 
