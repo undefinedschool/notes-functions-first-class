@@ -22,6 +22,8 @@
   <hr>
 </div>
 
+## Intro
+
 Un lenguaje de programación tiene _First-Class functions_ cuando **las funciones puede ser tratadas como cualquier otro valor**. Es decir, podemos:
   - Asignarlas como valores a una variable o constante
   - Recibirlas como parámetro (_callbacks_) :star:
