@@ -22,7 +22,7 @@
   <hr>
 </div>
 
-> 👉 Ver [todas las notas](https://github.com/undefinedschool/notes)
+👉 Ver [todas las notas](https://github.com/undefinedschool/notes)
 
 ## Contenido
 
