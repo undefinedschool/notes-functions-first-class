@@ -26,17 +26,17 @@
 
 ## Contenido
 
-- [Intro]()
-- [Alto orden!]()
-- [¿Por qué podemos tratar a las funciones como cualquier otro valor?]()
-- [Ejemplos]()
-  - [Asignar una función a una constante/variable]()
-  - [Pasar una función por parámetro]()
-  - [Retornar una función]()
-  - [Como _propiedades_ de un objeto,aka _métodos_]()
-  - [Array de funciones]()
-  - [Usando _IIFEs_]()
-  - [Usando el constructor _Function_]()
+- [Intro](https://github.com/undefinedschool/notes-functions-first-class#intro)
+- [Alto orden!](https://github.com/undefinedschool/notes-functions-first-class#alto-orden)
+- [¿Por qué podemos tratar a las funciones como cualquier otro valor?](https://github.com/undefinedschool/notes-functions-first-class#por-qu%C3%A9-podemos-tratar-a-las-funciones-como-cualquier-otro-valor)
+- [Ejemplos](https://github.com/undefinedschool/notes-functions-first-class#ejemplos)
+  - [Asignar una función a una constante/variable](https://github.com/undefinedschool/notes-functions-first-class#asignar-una-funci%C3%B3n-a-una-constantevariable)
+  - [Pasar una función por parámetro](https://github.com/undefinedschool/notes-functions-first-class#pasar-una-funci%C3%B3n-por-par%C3%A1metro)
+  - [Retornar una función](https://github.com/undefinedschool/notes-functions-first-class#retornar-una-funci%C3%B3n)
+  - [Como _propiedades_ de un objeto,aka _métodos_](https://github.com/undefinedschool/notes-functions-first-class#como-propiedades-de-un-objetoaka-m%C3%A9todos)
+  - [Array de funciones](https://github.com/undefinedschool/notes-functions-first-class#array-de-funciones)
+  - [Usando _IIFEs_](https://github.com/undefinedschool/notes-functions-first-class#usando-iifes)
+  - [Usando el constructor _Function_](https://github.com/undefinedschool/notes-functions-first-class#usando-el-constructor-function)
 
 ## Intro
 
