@@ -22,6 +22,22 @@
   <hr>
 </div>
 
+> 👉 Ver [todas las notas](https://github.com/undefinedschool/notes)
+
+## Contenido
+
+- [Intro]()
+- [Alto orden!]()
+- [¿Por qué podemos tratar a las funciones como cualquier otro valor?]()
+- [Ejemplos]()
+  - [Asignar una función a una constante/variable]()
+  - [Pasar una función por parámetro]()
+  - [Retornar una función]()
+  - [Como _propiedades_ de un objeto,aka _métodos_]()
+  - [Array de funciones]()
+  - [Usando _IIFEs_]()
+  - [Usando el constructor _Function_]()
+
 ## Intro
 
 Un lenguaje de programación tiene _First-Class functions_ cuando **las funciones puede ser tratadas como cualquier otro valor**. Es decir, podemos:
